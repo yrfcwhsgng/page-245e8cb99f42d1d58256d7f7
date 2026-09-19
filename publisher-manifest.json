@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "906eebdfdc07f221c670648f",
+  "owner": "yrfcwhsgng",
+  "repo": "page-245e8cb99f42d1d58256d7f7",
+  "title": "小火箭节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "245e8cb99f42d1d58256d7f7",
+      "a": "DLK",
+      "b": "小火箭节点",
+      "entity": "DLK",
+      "brand": "小火箭节点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e23901759890a144f413ed521728b906c51daaca8b49869783eead592fcc87e9",
+      "content": {
+        "primary_entity": "DLK",
+        "keyword1": "DLK",
+        "keyword2": "小火箭节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据常用设备选择对应客户端，并在客户端内完成订阅配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好设备与套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "按设备匹配套餐",
+          "AI_DESCRIPTION": "，专注提供海外网络加速服务，套餐围绕流量、设备数量与线路类型划分。基础版适合单人或少量设备日常使用，旗舰版增加 IPLC 专线并强化流媒体与游戏体验，团队版面向多设备协作场景。选择时先确认常用设备数量与每月流量需求，再按客户端订阅配置说明完成设置。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求到订阅周期，三点帮你快速理清。",
+          "AI_FEATURES_TITLE": "选择 DLK 的要点",
+          "AI_FEATURE_TEXT_1": "基础版、旗舰版、团队版按流量与设备数区分，按需选择即可。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版满足 20 台同时在线。",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付价格更优，如基础版年付仅需 ¥150/年。",
+          "AI_FEATURE_TITLE_1": "套餐按需匹配",
+          "AI_FEATURE_TITLE_2": "设备数量明确",
+          "AI_FEATURE_TITLE_3": "周期灵活可选",
+          "AI_GUIDE_INTRO": "三步完成从选服务到客户端订阅配置。",
+          "AI_GUIDE_TITLE": "订阅配置三步走",
+          "AI_HERO_INTRO": "DLK 提供海外网络加速服务，套餐按流量、设备数量与线路类型划分。基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并含 IPLC 专线，团队版每月 1000GB 支持 20 台设备。按客户端文档配置订阅即可使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择合适套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数划分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "支持按月或按年灵活付费",
+          "AI_PLANS_INTRO": "对比流量、设备数量与线路类型，选择契合使用场景的套餐。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与常用设备数量，在基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与客户端适配要求，确认符合使用环境。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "DLK 海外加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。流量与设备数可按需升级。",
+          "AI_FAQ_ANSWER_2": "旗舰版和团队版可解锁原生流媒体，基础版提供基础流媒体解锁。不同节点线路覆盖范围不同，订阅后可在客户端内切换节点进行测试。",
+          "AI_FAQ_ANSWER_3": "支持 Windows、macOS、iOS、Android 等常见客户端。安装后导入订阅地址即可使用，订阅导入方式和配置步骤可参考各客户端文档。",
+          "AI_FAQ_ANSWER_4": "月付适合短期体验，年付折算后更划算。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，长期使用建议按年付。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由与专属客户经理服务，适合多设备协作和统一管理需求。可根据实际设备数量与带宽要求选择对应节点。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "DLK 三档套餐有哪些区别？",
+          "AI_FAQ_QUESTION_2": "流媒体解锁支持哪些节点？",
+          "AI_FAQ_QUESTION_3": "客户端支持哪些平台？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选择？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么情况使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "30b18f76a8a01aa271373f7171b50c03dcad29808e1a3097642e4fa7abcedb5f",
+    "sitemap.xml": "43aca2c1abe4448bc9109ade4606ce84fd045bc119b716eaa404d8395a64d306",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "9fc7294c9502cb6532b9fb4c2ad5f13340f740aba305413bba8db35876ce1529"
+}
